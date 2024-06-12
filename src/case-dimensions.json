@@ -1,0 +1,100 @@
+ [
+
+        {
+            "id": 220017,
+            "width": 24.5,
+            "height": 34.25,
+            "depth": 15.375,
+            "weight": 0
+        },
+
+        {
+            "id": 220024,
+            "width": 12.25,
+            "height": 38,
+            "depth": 12.125,
+            "weight": 0
+        },
+ 
+        {
+            "id": 220025,
+            "width": 12.25,
+            "height": 72,
+            "depth": 12.125,
+            "weight": 0
+        },
+
+        {
+            "id": 220011,
+            "width": 14.125,
+            "height": 34.375,
+            "depth": 13.375,
+            "weight": 0
+        },
+
+        {
+            "id": 220018,
+            "width": 37.75,
+            "height": 25.25,
+            "depth": 3.5,
+            "weight": 0
+        },
+
+        {
+            "id": 220020,
+            "width": 41.625,
+            "height": 29.5,
+            "depth": 7.125,
+            "weight": 0
+        },
+
+        {
+            "id": 220023,
+            "width": 41.625,
+            "height": 23.75,
+            "depth": 7.5,
+            "weight": 0
+        
+        },
+
+        {
+            "id": 220074,
+            "height": 34.75,
+            "diameter": 3.625
+        },
+
+        {
+            "id": 220075,
+            "height": 40.625,
+            "diameter": 3.625
+        },
+       
+
+        {
+            "id": 220076,
+            "height": 41.125,
+            "diameter": 11.375
+        },
+
+        {
+            "id": "CCH1250",
+            "height": 49.125,
+            "diameter": 11.375
+        },
+
+        {
+            "id": "CCH654",
+            "height": 31.25,
+            "height-2": 53,
+            "diameter": 6.125
+        },
+
+        {
+        "id": 220070, 
+        "width": 5.125,
+         "height": 36.25,
+         "depth": 6,
+         "weight": 0
+        }
+
+]
